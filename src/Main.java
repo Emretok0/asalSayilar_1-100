@@ -20,7 +20,7 @@ public class Main {
                     }
                 }
             }
-            if (h){
+            if (h && baslangic!=1){
                 System.out.println(baslangic);
             }
             baslangic++;
